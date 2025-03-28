@@ -32,7 +32,7 @@ Deploy directly to your preferred hosting platform:
 
 ## Local Development Setup
 
-### 1. Configure Stack Auth
+### Configure Stack Auth
 
 1. Sign up for a [Stack Auth](https://stack-auth.com/) account and create a new project.
 2. Navigate to the project settings and create an API key.
@@ -40,7 +40,7 @@ Deploy directly to your preferred hosting platform:
 
    ![Stack Auth API Key](/images/stack-auth-api-key.png)
 
-### 2. Set Up Neon RLS
+### Set Up Neon RLS
 
 1. Open your Neon Console and click "RLS" in your project's settings
 2. Add a new authentication provider
@@ -55,7 +55,7 @@ Deploy directly to your preferred hosting platform:
    
    ![Neon RLS Connection Strings](/images/neon-rls-env-values.png)
 
-### 3. Local Installation
+### Local Installation
 
 1. Clone the repository:
 
